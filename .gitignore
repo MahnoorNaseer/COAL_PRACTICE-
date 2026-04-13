@@ -1,0 +1,21 @@
+# Compiled / object files
+*.obj
+*.o
+
+# Executable files
+*.exe
+*.com
+
+# Listing / debug files
+*.lst
+*.map
+
+# Temporary files
+*.tmp
+
+# IDE / system files
+*.log
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
